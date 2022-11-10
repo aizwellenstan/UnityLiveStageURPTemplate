@@ -5,6 +5,9 @@
 ## Unity Package
 LiveCapture
 
+* 正常に動作させるためにはクローンした後、以下のAssetをDLしてください
+    MagicaCloth
+
 ## iOS App
 https://apps.apple.com/us/app/unity-face-capture/id1544159771
 
