@@ -82,3 +82,6 @@ Desktop.ini
 /*.mov
 /*.mp4
 /*.webm
+
+/[Aa]ssets/MagicaCloth/*
+/[Aa]ssets/MagicaCloth.meta
