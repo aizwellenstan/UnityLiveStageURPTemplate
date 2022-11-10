@@ -1273,9 +1273,9 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 2222746062717808379}
   m_AABB:
-    m_Center: {x: -0.0000487864, y: 0.18432602, z: -0.033140503}
-    m_Extent: {x: 0.6146997, y: 0.15660742, z: 0.117141806}
-  m_DirtyAABB: 0
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_DirtyAABB: 1
 --- !u!1 &2249652998161723192
 GameObject:
   m_ObjectHideFlags: 0
@@ -1403,9 +1403,9 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 1216406626530340550}
   m_AABB:
-    m_Center: {x: -0.000000029802322, y: 0.074567795, z: 0.03404955}
-    m_Extent: {x: 0.092253506, y: 0.07305348, z: 0.04895901}
-  m_DirtyAABB: 0
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_DirtyAABB: 1
 --- !u!1 &2309697896692211795
 GameObject:
   m_ObjectHideFlags: 0
@@ -2326,9 +2326,9 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 2222746062717808379}
   m_AABB:
-    m_Center: {x: 0.00000010430813, y: -0.08732161, z: 0.00040346384}
-    m_Extent: {x: 0.2615381, y: 0.06330773, z: 0.23025393}
-  m_DirtyAABB: 0
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_DirtyAABB: 1
 --- !u!1 &3863672046719921445
 GameObject:
   m_ObjectHideFlags: 0
@@ -2422,9 +2422,9 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 2303579673227525998}
   m_AABB:
-    m_Center: {x: 0.016853906, y: 0.16773367, z: -0.012329437}
-    m_Extent: {x: 0.042435184, y: 0.025819778, z: 0.035367962}
-  m_DirtyAABB: 0
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_DirtyAABB: 1
 --- !u!1 &3889930925694594523
 GameObject:
   m_ObjectHideFlags: 0
@@ -2587,9 +2587,9 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 2222746062717808379}
   m_AABB:
-    m_Center: {x: 0.000000044703484, y: -0.43802553, z: 0.0097554065}
-    m_Extent: {x: 0.13535206, y: 0.5348162, z: 0.08622332}
-  m_DirtyAABB: 0
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_DirtyAABB: 1
 --- !u!1 &4160675693648080046
 GameObject:
   m_ObjectHideFlags: 0
@@ -3556,9 +3556,9 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 2222746062717808379}
   m_AABB:
-    m_Center: {x: 0.00000011920929, y: -0.098257124, z: 0.0010405332}
-    m_Extent: {x: 0.251627, y: 0.035618186, z: 0.23081495}
-  m_DirtyAABB: 0
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_DirtyAABB: 1
 --- !u!1 &5859746136172703876
 GameObject:
   m_ObjectHideFlags: 0
@@ -3713,9 +3713,9 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 1216406626530340550}
   m_AABB:
-    m_Center: {x: 0.000006109476, y: 0.046119213, z: 0.02877163}
-    m_Extent: {x: 0.05625811, y: 0.018762112, z: 0.028284738}
-  m_DirtyAABB: 0
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_DirtyAABB: 1
 --- !u!1 &6192794104909736232
 GameObject:
   m_ObjectHideFlags: 0
@@ -3822,9 +3822,9 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 2222746062717808379}
   m_AABB:
-    m_Center: {x: 0.00000011920929, y: -0.0739924, z: 0.0021298826}
-    m_Extent: {x: 0.28476435, y: 0.10890749, z: 0.2731311}
-  m_DirtyAABB: 0
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_DirtyAABB: 1
 --- !u!1 &6233124682426023377
 GameObject:
   m_ObjectHideFlags: 0
@@ -4126,9 +4126,9 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 2222746062717808379}
   m_AABB:
-    m_Center: {x: 0.00000011920929, y: -0.04130587, z: 0.0021298826}
-    m_Extent: {x: 0.28476435, y: 0.14159402, z: 0.2731311}
-  m_DirtyAABB: 0
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_DirtyAABB: 1
 --- !u!1 &6603262489864648632
 GameObject:
   m_ObjectHideFlags: 0
@@ -4393,9 +4393,9 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 8344410918026935479}
   m_AABB:
-    m_Center: {x: -0.000000044703484, y: 0.12974948, z: 0.01451936}
-    m_Extent: {x: 0.09598433, y: 0.10199708, z: 0.06832823}
-  m_DirtyAABB: 0
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_DirtyAABB: 1
 --- !u!1 &7053639352359279837
 GameObject:
   m_ObjectHideFlags: 0
@@ -4549,9 +4549,9 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 1216406626530340550}
   m_AABB:
-    m_Center: {x: -0.00000086426735, y: -0.22353664, z: -0.13195193}
-    m_Extent: {x: 0.48301533, y: 0.527012, z: 0.22508138}
-  m_DirtyAABB: 0
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_DirtyAABB: 1
 --- !u!1 &7166769888235807684
 GameObject:
   m_ObjectHideFlags: 0
@@ -4958,9 +4958,9 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 1216406626530340550}
   m_AABB:
-    m_Center: {x: 0.000000018626451, y: 0.02242136, z: 0.040259674}
-    m_Extent: {x: 0.05749935, y: 0.020291448, z: 0.04451283}
-  m_DirtyAABB: 0
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_DirtyAABB: 1
 --- !u!1 &7691935866932137217
 GameObject:
   m_ObjectHideFlags: 0
@@ -5483,7 +5483,6 @@ GameObject:
   - component: {fileID: 3625423075218790898}
   - component: {fileID: 3966751243313360263}
   - component: {fileID: 23208928488999316}
-  - component: {fileID: 3175903145971330807}
   m_Layer: 0
   m_Name: Alicia
   m_TagString: Untagged
@@ -5785,81 +5784,6 @@ MonoBehaviour:
       m_RotationOrder: 4
     CurveXRangeDegree: 20
     CurveYRangeDegree: 5
---- !u!114 &3175903145971330807
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8810146101833139794}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: db8052edd37c5da4ba56c08244eb648a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Mapper: {fileID: 11400000, guid: 39f1456df2f7de04984b36268b78e336, type: 2}
-  m_EnabledChannels: 15
-  m_BlendShapes:
-    BrowDownLeft: 0
-    BrowDownRight: 0
-    BrowInnerUp: 0
-    BrowOuterUpLeft: 0
-    BrowOuterUpRight: 0
-    CheekPuff: 0
-    CheekSquintLeft: 0
-    CheekSquintRight: 0
-    EyeBlinkLeft: 0
-    EyeBlinkRight: 0
-    EyeLookDownLeft: 0
-    EyeLookDownRight: 0
-    EyeLookInLeft: 0
-    EyeLookInRight: 0
-    EyeLookOutLeft: 0
-    EyeLookOutRight: 0
-    EyeLookUpLeft: 0
-    EyeLookUpRight: 0
-    EyeSquintLeft: 0
-    EyeSquintRight: 0
-    EyeWideLeft: 0
-    EyeWideRight: 0
-    JawForward: 0
-    JawLeft: 0
-    JawOpen: 0
-    JawRight: 0
-    MouthClose: 0
-    MouthDimpleLeft: 0
-    MouthDimpleRight: 0
-    MouthFrownLeft: 0
-    MouthFrownRight: 0
-    MouthFunnel: 0
-    MouthLeft: 0
-    MouthLowerDownLeft: 0
-    MouthLowerDownRight: 0
-    MouthPressLeft: 0
-    MouthPressRight: 0
-    MouthPucker: 0
-    MouthRight: 0
-    MouthRollLower: 0
-    MouthRollUpper: 0
-    MouthShrugLower: 0
-    MouthShrugUpper: 0
-    MouthSmileLeft: 0
-    MouthSmileRight: 0
-    MouthStretchLeft: 0
-    MouthStretchRight: 0
-    MouthUpperUpLeft: 0
-    MouthUpperUpRight: 0
-    NoseSneerLeft: 0
-    NoseSneerRight: 0
-    TongueOut: 0
-  m_HeadPosition: {x: 0, y: 0, z: 0}
-  m_HeadOrientation: {x: 0, y: 0, z: 0}
-  m_LeftEyeOrientation: {x: 0, y: 0, z: 0}
-  m_RightEyeOrientation: {x: 0, y: 0, z: 0}
-  m_BlendShapesEnabled: 0
-  m_HeadPositionEnabled: 0
-  m_HeadOrientationEnabled: 0
-  m_EyeOrientationEnabled: 0
 --- !u!1 &8853838606431938707
 GameObject:
   m_ObjectHideFlags: 0
