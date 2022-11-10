@@ -1,6 +1,6 @@
 # UnityURPToonLitShader VRM ARKit Template
 
-<a href="https://ibkr.com/referral/zhenwei375"><img src="https://github.com/aizwellenstan/UnityLiveStageURPTemplate/blob/master/MagicaCloth.gif" width="400"/></a>
+<a href="https://ibkr.com/referral/zhenwei375"><img src="https://github.com/aizwellenstan/UnityLiveStageURPTemplate/blob/master/Preview.gif" width="400"/></a>
 
 ## Unity Package
 LiveCapture
