@@ -80,7 +80,7 @@ Desktop.ini
 *.vsconfig
 
 /*.mov
-/*.mp4
+# /*.mp4
 /*.webm
 
 /[Aa]ssets/MagicaCloth/*
