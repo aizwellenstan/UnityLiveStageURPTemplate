@@ -2,10 +2,11 @@
 
 ### With MagicaCloth（前髪、髪の毛、スカートなど）
 <a href="https://ibkr.com/referral/zhenwei375"><img src="https://github.com/aizwellenstan/UnityLiveStageURPTemplate/blob/master/Preview.gif" width="400"/></a>
-Colider: 腹、胸、LeftForeArm, RightForeArm, LeftUpperLeg, RightUpperLeg
+
+#### Colider: 腹、胸、LeftForeArm, RightForeArm, LeftUpperLeg, RightUpperLeg
 
 ### Without MagicaCloth
-<a href="https://ibkr.com/referral/zhenwei375"><img src="https://github.com/aizwellenstan/UnityLiveStageURPTemplate/blob/master/WithouMagicaCloth.gif" width="400"/></a>
+<a href="https://ibkr.com/referral/zhenwei375"><img src="https://github.com/aizwellenstan/UnityLiveStageURPTemplate/blob/master/WithoutMagicaCloth.gif" width="400"/></a>
 
 ## Unity Package
 LiveCapture
